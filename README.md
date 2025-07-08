@@ -4,7 +4,7 @@ A complete hands-on guide to unit testing in Flutter using `flutter_test`, `mock
 
 ---
 
-## 📘 
+## 📘 https://medium.com/@amit.marthak03/a-complete-guide-to-unit-testing-in-flutter-with-mocktail-clean-architecture-f8ebf935c69d
 
 Read the full tutorial on Medium:  
 **[A Complete Guide to Unit Testing in Flutter with Mocktail & Clean Architecture](#)**  
