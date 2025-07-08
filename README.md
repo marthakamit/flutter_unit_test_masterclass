@@ -1,16 +1,25 @@
-# flutter_unit_test_masterclass
+# 🧪 Flutter Unit Test Masterclass
 
-A new Flutter project.
+A complete hands-on guide to unit testing in Flutter using `flutter_test`, `mocktail`, and clean architecture principles. This repository demonstrates how to write modular, testable code by building a simple **shopping cart system with promo code support**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📘 
 
-A few resources to get you started if this is your first Flutter project:
+Read the full tutorial on Medium:  
+**[A Complete Guide to Unit Testing in Flutter with Mocktail & Clean Architecture](#)**  
+*(Update with the final blog URL)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 What You'll Learn
+
+- How to structure testable and modular Flutter code
+- Writing unit tests using `flutter_test`
+- Mocking dependencies using `mocktail`
+- Validating cart logic and promo codes with test coverage
+- Building a maintainable architecture ready for production
+
+---
+
+## 📦 Project Structure
