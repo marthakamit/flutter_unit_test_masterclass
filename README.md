@@ -8,7 +8,6 @@ A complete hands-on guide to unit testing in Flutter using `flutter_test`, `mock
 
 Read the full tutorial on Medium:  
 **[A Complete Guide to Unit Testing in Flutter with Mocktail & Clean Architecture](#)**  
-*(Update with the final blog URL)*
 
 ---
 
@@ -23,3 +22,13 @@ Read the full tutorial on Medium:
 ---
 
 ## 📦 Project Structure
+lib/
+├── models/
+│ └── cart_item_model.dart
+├── services/
+│ ├── cart_service.dart
+│ └── promo_service.dart
+test/
+├── cart_service_test.dart
+├── promo_service_test.dart
+└── price_service_test.dart (with mocktail)
